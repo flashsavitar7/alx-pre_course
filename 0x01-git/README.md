@@ -1,1 +1,1 @@
-New directory update
+New directory
